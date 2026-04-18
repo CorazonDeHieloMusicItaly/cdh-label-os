@@ -1,0 +1,9 @@
+{
+  "users": {
+    "ADMIN123": {
+      "role": "admin",
+      "name": "Admin"
+    }
+  },
+  "messages": []
+}
