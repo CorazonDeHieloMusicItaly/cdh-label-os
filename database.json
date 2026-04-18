@@ -1,11 +1,31 @@
 {
   "users": {
-    "ADMIN123": {
+    "CDHMI": {
       "role": "admin",
-      "name": "Admin"
+      "name": "Admin Label",
+      "folder": ""
+    },
+    "ARTIST1": {
+      "role": "artist",
+      "name": "Danilka",
+      "folder": "https://drive.google.com/..."
+    },
+    "ARTIST2": {
+      "role": "artist",
+      "name": "Black_Wolf",
+      "folder": "https://drive.google.com/..."
+    }
+    "ARTIST3": {
+      "role": "artist",
+      "name": "Yuong_Leffer",
+      "folder": "https://drive.google.com/..."
+    }
+    "ARTIST4": {
+      "role": "artist",
+      "name": "YuongLaRue",
+      "folder": "https://drive.google.com/..."
     }
   },
-"users": {},
   "messages": [],
   "releases": [],
   "demos": []
