@@ -2,28 +2,28 @@
   "users": {
     "CDHMI": {
       "role": "admin",
-      "name": "Admin Label",
-      "folder": ""
+      "name": "Corazon De Hielo Music Italy",
+      "folder": "https://drive.google.com/drive/folders/1YBzJqPWaxdm05fh3tefC_aBH6-JCvP01?usp=sharing"
     },
     "ARTIST1": {
       "role": "artist",
       "name": "Danilka",
-      "folder": "https://drive.google.com/..."
+      "folder": "https://drive.google.com/drive/folders/1Ztl1xXOhKqZqn4IdhgSYSQTfNiQqyF6V?usp=sharing"
     },
     "ARTIST2": {
       "role": "artist",
       "name": "Black_Wolf",
-      "folder": "https://drive.google.com/..."
+      "folder": "https://drive.google.com/drive/folders/1pX6GrklNMDvvafXkrrHdETwpBRuG9dbp?usp=sharing"
     }
     "ARTIST3": {
       "role": "artist",
       "name": "Yuong_Leffer",
-      "folder": "https://drive.google.com/..."
+      "folder": "https://drive.google.com/drive/folders/15qzCWQnCji6Z94MeFxtjITt_YEw47i9R?usp=sharing"
     }
     "ARTIST4": {
       "role": "artist",
       "name": "YuongLaRue",
-      "folder": "https://drive.google.com/..."
+      "folder": "https://drive.google.com/drive/folders/1n5umfEavQbo4pl5uYMvR1X560k8k7gCP?usp=sharing"
     }
   },
   "messages": [],
